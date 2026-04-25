@@ -1,5 +1,3 @@
-# FinanceNews_Antigravity
-This project curates reliable and latest finance news and updates every minute
 # Global Finance Desk
 
 A minimalist, premium, and legally compliant web application that aggregates the latest financial news from the world's most respected financial sources. 
