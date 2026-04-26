@@ -2,8 +2,6 @@
 
 A minimalist, premium, and legally compliant web application that aggregates the latest financial news from the world's most respected financial sources. 
 
-Published version: https://capitalpulse.uk
-
 ## Features
 
 - **Top-Tier Sources**: Aggregates live headlines from Financial Times, CNBC, Wall Street Journal, The Economist, and Yahoo Finance (serving as a proxy for Reuters/Bloomberg).
@@ -38,3 +36,6 @@ You can host this project for free on platforms like **GitHub Pages**, **Netlify
 
 ## Legal Disclaimer
 This platform only provides headlines and short snippets through officially provided RSS feeds. All content rights belong to their original publishers. This application does not bypass paywalls or scrape protected content.
+
+Published version: https://capitalpulse.uk
+
