@@ -2,7 +2,7 @@
 
 A minimalist, premium, and legally compliant web application that aggregates the latest financial news from the world's most respected financial sources. 
 
-Published version: https://capitalpulse.pages.dev 
+Published version: https://capitalpulse.uk
 
 ## Features
 
