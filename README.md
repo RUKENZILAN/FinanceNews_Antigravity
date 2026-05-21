@@ -35,7 +35,7 @@ You can host this project for free on platforms like **GitHub Pages**, **Netlify
 - **GitHub Pages**: Upload these files to a GitHub repository and enable GitHub pages in the repository settings.
 
 ## Legal Disclaimer
-This platform only provides headlines and short snippets through officially provided RSS feeds. All content rights belong to their original publishers. This application does not bypass paywalls or scrape protected content.
+This platform only provides headlines and short snippets through officially provided RSS feeds. All content rights belong to their original publishers. This application does not bypass paywalls or scrape protected content. All rights reserved.
 
 Published version: https://capitalpulse.uk
 
